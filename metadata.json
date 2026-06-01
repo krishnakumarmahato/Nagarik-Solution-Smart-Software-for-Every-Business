@@ -1,0 +1,6 @@
+{
+  "name": "Nagarik Solution CRM",
+  "description": "Smart full-stack CRM client software built for managing leads, websites, software subscriptions, campaigns, demo instances, proposals, clients, invoices, and payment ledgers.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
